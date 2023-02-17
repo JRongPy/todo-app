@@ -1,2 +1,4 @@
 sleep
+
+finish
 test1
